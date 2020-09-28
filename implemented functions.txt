@@ -1,0 +1,19 @@
+brlo c1,
+brsh c=0,
+breq z=1,
+brmi n=1,
+add,
+com,
+mod,
+div,
+ldi,
+sub,
+load,
+store,
+
+call ,
+return,
+ 
+looping ,
+exit, to stop the prg 
+

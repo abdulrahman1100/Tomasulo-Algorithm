@@ -1,0 +1,6 @@
+add r5 r6 r7
+add r5 r6 r7
+sub r1 r1 r2
+brmi n 1 _
+add r3 r3 r3
+add r4 r4 r4

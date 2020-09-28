@@ -1,0 +1,7 @@
+add r1 r2 r3
+call p 2 _
+sub r4 r5 r6
+call p 1 _
+return _ _ _
+mod r1 r2 r3
+exit _ _ _

@@ -1,0 +1,6 @@
+sub r4 r5 r6
+breq p 1 _
+add r3 r5 r2
+mul r1 r3 r2
+
+//take care here when applying the negative branching you enter an infinte loop .
